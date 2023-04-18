@@ -1,0 +1,26 @@
+.sidenav {
+    background-color: #3F51B5;
+    width: 200px;
+}
+
+.sidenav .nav-link {
+    margin-top: 10px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.sidenav .nav-link span {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    color: #fff;
+}
+
+.sidenav .nav-link i {
+    font-size: 30px;
+    font-weight: 200;
+    color: #fff;
+    padding-left: 10px;
+}
